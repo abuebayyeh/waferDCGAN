@@ -5,4 +5,4 @@ In this notebook, we ill build a simple DCGAN to generate synthetic images of WM
 
 Figure \ref{fig:subpie} summarises the distribution of data for WM-811k dataset. In this code, we considered the Donut class in order to generate sythetic images form
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/AbuEbayyeh/waferDCGAN/blob/main/images/wm811k.PNG)
