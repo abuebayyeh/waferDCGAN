@@ -1,5 +1,5 @@
 # WaferDCGAN
-In this notebook, we ill build a simple DCGAN (shown in Figure below) to generate synthetic images of th Donut class in the WM-811k data. 
+In this notebook, we will build a simple DCGAN (shown in Figure below) to generate synthetic images of th Donut class in the WM-811k data. 
 
 ![alt text](https://github.com/AbuEbayyeh/waferDCGAN/blob/main/images/DCGAN.PNG)
 
